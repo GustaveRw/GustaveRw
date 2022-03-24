@@ -4,15 +4,14 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 <!--<img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋 About  Me</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a> About  Me</h3>
 I'm a fullStack Software Engineer and a Data Science enthusiast from Rwanda, 
 who is earger to learn new different things daily. 
 
   
 #### My current status:
-- 🔭 Currently working on bettering myself
-- 🌱 Currently learning EVERTHING 😄
-- 👯 Looking for collaboration.
+- 🌱 Currently working on bettering myself and learning EVERTHING 😄
+- 👯 Looking for collaboration and new opportunities.
 - ⚡ Fun fact: **I love challenges 😄**
 
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
