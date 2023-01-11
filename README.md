@@ -1,9 +1,8 @@
-<h1 align="center">Hi there 👋, Gustave here!</h1>
-<h3 align="center">A Software Engineer</h3>
+
 
 <span>
   <a href="#">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20beloved%20Visitor%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20things;Enjoy%20to%20explore%20my%20coding%20work%20.&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20beloved%20Visitor%20!;%20I%20am%20JM%20Gustave;%20A%20Fullstack%20Software%20Engineer;A%20Data%20Engineering%20Enthusiast;4%2B%20years%20of%20experience;Always%20learning%20new%20things;Enjoy%20to%20explore%20my%20coding%20work%20.&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
 </span>
 <br>
 <br>
@@ -39,13 +38,14 @@ who is earger to learn new different things daily.
 
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![javascript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![JQuery](https://icongr.am/devicon/jquery-original-wordmark.svg?size=50&color=currentColor)
-![typescript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
+![Typescript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
 ![Django](https://icongr.am/devicon/django-original.svg?size=50&color=currentColor)
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
+![C#](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor)
 
 
 
@@ -66,37 +66,23 @@ who is earger to learn new different things daily.
 
   
 <!-- START NEW SECTION -->
-<p align="center">
+<!-- <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GustaveRw&theme=radical&margin-w=40&margin-h=40)](https://github.com/GustaveRw)
 
-<hr>
+
 
 <!-- START NEW SECTION -->
-<p align="center">
- <h2 align="center">My Github Stats</h2>
-
-|Statistics|Languages|Streaks|
-|-|-|-|
-|[![Gustave's github stats](https://github-readme-stats.vercel.app/api?username=GustaveRw&show_icons=true&theme=dark&hide_title=true)](https://github.com/GustaveRw)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaveRw&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/GustaveRw)|![GustaveRw](https://github-readme-streak-stats.herokuapp.com/?user=GustaveRw&theme=dark)
-<hr>
-
-<!-- START NEW SECTION -->
-<!--
+<!-- 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustaveRW}/count.svg" /></p> 
-<br></div> 
-
-
-<p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
-</p>
+<br></div>  -->
 <hr>
--->
+
 <!-- START NEW SECTION -->
 <div align="center">
  <br>
@@ -109,7 +95,7 @@ who is earger to learn new different things daily.
 <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 <br>
 </div>
-
+<h2>
 <!-- START NEW SECTION -->
 
 <p align="center">
