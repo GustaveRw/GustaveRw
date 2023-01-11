@@ -1,6 +1,15 @@
 <h1 align="center">Hi there 👋, Gustave here!</h1>
 <h3 align="center">A Software Engineer</h3>
 
+<span>
+  <a href="#">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20beloved%20Visitor%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20things;Enjoy%20to%20explore%20my%20coding%20work%20.&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
+</span>
+<br>
+<br>
+<hr>
+
+
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 <!--<img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
